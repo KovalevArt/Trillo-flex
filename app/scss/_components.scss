@@ -1,5 +1,5 @@
 ////////////////////////////////////////
-// LOGO
+// Лого
 .logo {
     height: 3.25rem;
     margin-left: 2rem;
@@ -7,7 +7,7 @@
 
 
 ////////////////////////////////////////
-// SEARCH
+// поиск. строка
 .search {
     flex: 0 0 40%;
 
@@ -71,7 +71,7 @@
 
 
 ////////////////////////////////////////
-// USER NAVIGATION
+// Навмгация
 .user-nav {
     align-self: stretch;
     
@@ -126,7 +126,6 @@
 
 
 ////////////////////////////////////////
-// SIDE NAVIGATION
 .side-nav {
     font-size: 1.4rem;
     list-style: none;
@@ -218,7 +217,7 @@
 
 
 ////////////////////////////////////////
-// LEGAL TEXT
+
 .legal {
     font-size: 1.2rem;
     color: var(--color-grey-light-4);
@@ -231,8 +230,8 @@
 }
 
 
-////////////////////////////////////////
-// GALLERY
+//////////////////////////////////////// галерея
+
 .gallery {
     display: flex;
 
@@ -244,7 +243,7 @@
 
 
 ////////////////////////////////////////
-// HOTEL OVERVIEW
+
 .overview {
     display: flex;
     align-items: center;
@@ -325,7 +324,7 @@
 
 
 ////////////////////////////////////////
-// BUTTON INLINE
+
 .btn-inline {
     border: none;
     color: var(--color-primary);
@@ -374,7 +373,7 @@
 }
 
 ////////////////////////////////////////
-// PARAGRAPH
+
 .paragraph:not(:last-of-type) {
     margin-bottom: 2rem;
 }
@@ -425,7 +424,7 @@
 
 
 ////////////////////////////////////////
-// RECOMMEND
+
 .recommend {
     font-size: 1.3rem;
     color: var(--color-grey-dark-3);
@@ -455,8 +454,7 @@
 }
 
 
-////////////////////////////////////////
-// REVIEWS
+
 .review {
     background-color: #fff;
     box-shadow: var(--shadow-light);
@@ -524,8 +522,7 @@
 }
 
 
-////////////////////////////////////////
-// CALL TO ACTION
+
 .cta {
     padding: 3.5rem 0;
     text-align: center;
@@ -544,7 +541,7 @@
 
 
 ////////////////////////////////////////
-// CALL TO ACTION
+
 .btn {
     font-size: 1.5rem;
     font-weight: 300;
